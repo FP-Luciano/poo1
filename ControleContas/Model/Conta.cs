@@ -50,5 +50,6 @@ namespace ControleContas.Model
         {
             get => _contaMaiorSaldo;
         }
+        
     }
 }
