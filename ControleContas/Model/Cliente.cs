@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ControleContas.Model
 {
-    internal class Cliente
+    public class Cliente
     {
         public string Nome { get; private set; }
         public string Cpf { get; private set; }
